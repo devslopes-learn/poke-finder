@@ -17,4 +17,7 @@ the copyright on the theme Pokemon as well as the graphics used in this project.
 
 Devslopes, LLC claims no copyright on Pokemon.
 
-Other graphics used in this project are credited to: [LDEJRuff](http://ldejruff.deviantart.com/art/Dream-World-sprite-like-Poke-Ball-vectors-347662137)
+Other graphics used in this project are credited to:
+
+*  [PokeBall](http://ldejruff.deviantart.com/art/Dream-World-sprite-like-Poke-Ball-vectors-347662137)
+*  [MapIcon](https://freeiconshop.com/icon/location-map-icon-flat/)
